@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/hivemind-puzzle/precache-manifest.f3a5121c3e7b32cda9dfdee52b0c072e.js"
+  "/hivemind-puzzle/precache-manifest.7a0c785430162f037ef29ef055e04553.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "hivemind-puzzle"});
