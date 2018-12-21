@@ -1,23 +1,23 @@
 self.__precacheManifest = [
   {
-    "revision": "fe13eead0ee45790cf15",
-    "url": "/hivemind-puzzle/js/chunk-78a56aee.09c6095f.js"
+    "revision": "02a2f855b8e597eca8b1",
+    "url": "/hivemind-puzzle/js/chunk-b7821564.d7af29a0.js"
   },
   {
     "revision": "b6216d61c03e6ce0c9aea6ca7808f7ca",
     "url": "/hivemind-puzzle/robots.txt"
   },
   {
-    "revision": "e15b262567d5e2747a04",
-    "url": "/hivemind-puzzle/css/chunk-b7821564.0e433876.css"
+    "revision": "86bfd12742791b313c5f",
+    "url": "/hivemind-puzzle/css/chunk-c70606f6.9d6d5480.css"
   },
   {
     "revision": "e122297800f853536138",
     "url": "/hivemind-puzzle/js/about.896d1847.js"
   },
   {
-    "revision": "9358f5728d31b12f15fd",
-    "url": "/hivemind-puzzle/js/chunk-vendors.29fabc84.js"
+    "revision": "121a3c890240cc2ced3d",
+    "url": "/hivemind-puzzle/js/chunk-vendors.1783c78a.js"
   },
   {
     "revision": "d8cdc0bc8a1c59afa0db",
@@ -28,39 +28,39 @@ self.__precacheManifest = [
     "url": "/hivemind-puzzle/js/chunk-db51673c.84f152da.js"
   },
   {
-    "revision": "8a6c24df123803d86a4f",
-    "url": "/hivemind-puzzle/js/chunk-43ab68b3.efaef3b5.js"
+    "revision": "ff0ce950e92e9027d3cc",
+    "url": "/hivemind-puzzle/js/chunk-4bac308c.d773f7ab.js"
   },
   {
-    "revision": "e15b262567d5e2747a04",
-    "url": "/hivemind-puzzle/js/chunk-b7821564.ca4d36af.js"
-  },
-  {
-    "revision": "57952316c697ef43a95a",
-    "url": "/hivemind-puzzle/js/chunk-4bac308c.32c5e5bf.js"
-  },
-  {
-    "revision": "193e1d442fbaec390dac",
-    "url": "/hivemind-puzzle/js/chunk-0c6d2cea.ad86403d.js"
+    "revision": "86bfd12742791b313c5f",
+    "url": "/hivemind-puzzle/js/chunk-c70606f6.6903f9b4.js"
   },
   {
     "revision": "1a3c5c6ca86a1da43e2e",
     "url": "/hivemind-puzzle/js/chunk-664912ed.6772d32b.js"
   },
   {
-    "revision": "d1fbaa58031280c15a2d",
-    "url": "/hivemind-puzzle/js/app.980d475f.js"
+    "revision": "b3ec251dc7c378a4beb5",
+    "url": "/hivemind-puzzle/js/chunk-0c6d2cea.d1c6a63c.js"
+  },
+  {
+    "revision": "abd44df735469a37f7cb",
+    "url": "/hivemind-puzzle/js/chunk-78a56aee.17dae89e.js"
+  },
+  {
+    "revision": "c22dff931f0e286372e5",
+    "url": "/hivemind-puzzle/js/app.dfc98a3a.js"
   },
   {
     "revision": "d8cdc0bc8a1c59afa0db",
     "url": "/hivemind-puzzle/css/chunk-2b3f0ff5.0e433876.css"
   },
   {
-    "revision": "fe13eead0ee45790cf15",
-    "url": "/hivemind-puzzle/css/chunk-78a56aee.bd02ed02.css"
+    "revision": "02a2f855b8e597eca8b1",
+    "url": "/hivemind-puzzle/css/chunk-b7821564.0e433876.css"
   },
   {
-    "revision": "592d64f6b1a0b514bec1f8bfafb93b62",
+    "revision": "42182a214b4bbd9a89681300fb61622a",
     "url": "/hivemind-puzzle/index.html"
   },
   {
@@ -72,8 +72,8 @@ self.__precacheManifest = [
     "url": "/hivemind-puzzle/img/arcane-lava.ef7d3c2a.jpg"
   },
   {
-    "revision": "9358f5728d31b12f15fd",
-    "url": "/hivemind-puzzle/css/chunk-vendors.3c6e0f86.css"
+    "revision": "121a3c890240cc2ced3d",
+    "url": "/hivemind-puzzle/css/chunk-vendors.cbbd3891.css"
   },
   {
     "revision": "71501fafae9cdecdb684c90a69d4b4b3",
@@ -88,19 +88,19 @@ self.__precacheManifest = [
     "url": "/hivemind-puzzle/img/the-hivemind-mount.48278458.jpg"
   },
   {
+    "revision": "abd44df735469a37f7cb",
+    "url": "/hivemind-puzzle/css/chunk-78a56aee.bd02ed02.css"
+  },
+  {
     "revision": "1a3c5c6ca86a1da43e2e",
     "url": "/hivemind-puzzle/css/chunk-664912ed.0e433876.css"
   },
   {
-    "revision": "57952316c697ef43a95a",
+    "revision": "ff0ce950e92e9027d3cc",
     "url": "/hivemind-puzzle/css/chunk-4bac308c.0e433876.css"
   },
   {
-    "revision": "8a6c24df123803d86a4f",
-    "url": "/hivemind-puzzle/css/chunk-43ab68b3.02ce6f05.css"
-  },
-  {
-    "revision": "193e1d442fbaec390dac",
+    "revision": "b3ec251dc7c378a4beb5",
     "url": "/hivemind-puzzle/css/chunk-0c6d2cea.fba93c0d.css"
   }
 ];
